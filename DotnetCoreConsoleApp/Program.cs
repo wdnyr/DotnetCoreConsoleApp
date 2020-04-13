@@ -19,6 +19,7 @@ namespace DotnetCoreConsoleApp
             logger.LogTrace("Logging trace");
             logger.LogWarning("Logging warning.");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Here is a change");
             Console.ReadKey();
         }
     }
